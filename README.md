@@ -20,7 +20,7 @@
 - <b>I was primarily the UX Researcher and the back-up Project Manager for the project team: Super Crew. Our goal was to profer solutions to the "Prevalence of Stroke in Individuals".
   Our proposed  solution was the mobile app: "STROKEsense", the app is aimed at preventing stroke and promoting healthy living and wellness among users. I participated in the video recording and editing of the pitch video. </b>
 - <b>Project Pitch Video</b>
-  - [SlidesDeck](https://www.youtube.com/watch?v=5yKmj6Pz5Y0)
+  - [PitchVideo](https://www.youtube.com/watch?v=5yKmj6Pz5Y0)
 
 <h2>Experience</h2>
 <h4>2021 - 2022</h4>
